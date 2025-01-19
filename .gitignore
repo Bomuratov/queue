@@ -16,7 +16,7 @@ media/
 /media/
 media
 
-.DStore
-/.DStore/
-/.DStore
-.DStore/
+.DS_Store
+/.DS_Store/
+/.DS_Store
+.DS_Store/
